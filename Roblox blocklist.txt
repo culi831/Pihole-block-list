@@ -12,3 +12,11 @@ thumbnails.roblox.com
 assetgame.roblox.com
 ecsv2.roblox.com
 roblox.com
+t3.rbxcdn.com
+cdg1-128-116-122-3.roblox.com
+nrt1-128-116-120-3.roblox.com
+bronze.roblox.com
+lax1-128-116-116-3.roblox.com
+lms.roblox.com
+oblox-api.arkoselabs.com
+roblox-api.arkoselabs.com

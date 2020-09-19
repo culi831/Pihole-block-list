@@ -5,3 +5,5 @@ discordapp.com
 catalog.gamepass.com
 play.google.com
 presence-heartbeat.xboxlive.com
+presence.roblox.com
+assetdelivery.roblox.com

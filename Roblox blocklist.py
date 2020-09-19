@@ -1,1 +1,7 @@
-print("Hello Everyone")
+print("api.roblox.com")
+print("www.roblox.com")
+print("ephemeralcounters.api.roblox.com")
+print("discordapp.com")
+print("catalog.gamepass.com")
+print("play.google.com")
+print("presence-heartbeat.xboxlive.com")

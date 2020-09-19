@@ -1,9 +1,9 @@
 api.roblox.com
-www.roblox.com")
+www.roblox.com
 ephemeralcounters.api.roblox.com
 discordapp.com
 catalog.gamepass.com
-play.google.com")
+play.google.com
 presence-heartbeat.xboxlive.com
 presence.roblox.com
 assetdelivery.roblox.com
@@ -38,3 +38,6 @@ sandspiel.club
 agar.io
 narwhale.io
 zombsroyale.io
+abtesting.roblox.com
+abtesting.roblox.com
+gameinternationalization.roblox.com

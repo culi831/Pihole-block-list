@@ -1,1 +1,1 @@
-print("Pending")
+Pending

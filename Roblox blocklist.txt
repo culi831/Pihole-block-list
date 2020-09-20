@@ -2,6 +2,7 @@ api.roblox.com
 www.roblox.com
 ephemeralcounters.api.roblox.com
 discordapp.com
+discord.com
 catalog.gamepass.com
 play.google.com
 presence-heartbeat.xboxlive.com
@@ -45,5 +46,8 @@ https://www.roblox.com/
 https://www.roblox.com/GAMES#/
 https://roblox.en.softonic.com/
 https://www.roblox.com/NewLogin
+https://www.bluestacks.com/
 badges.roblox.com
 followings.roblox.com
+realtime.roblox.com
+cloud.bluestacks.com

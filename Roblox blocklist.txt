@@ -57,3 +57,13 @@ static.rbxcdn.com
 js.rbxcdn.com
 images.rbxcdn.com
 css.rbxcdn.com
+status.discord.com
+gateway.discord.gg
+ptb.discordapp.com
+remote-auth-gateway.discord.gg
+multiplayeractivity.xboxlive.com
+rta.xboxlive.com
+xblmessaging.xboxlive.com
+peoplehub.xboxlive.com
+sessiondirectory.xboxlive.com
+chat.xboxlive.com

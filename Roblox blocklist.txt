@@ -51,3 +51,4 @@ badges.roblox.com
 followings.roblox.com
 realtime.roblox.com
 cloud.bluestacks.com
+us-east5856.discord.media

@@ -52,3 +52,8 @@ followings.roblox.com
 realtime.roblox.com
 cloud.bluestacks.com
 us-east5856.discord.media
+cdn.discordapp.com
+static.rbxcdn.com
+js.rbxcdn.com
+images.rbxcdn.com
+css.rbxcdn.com

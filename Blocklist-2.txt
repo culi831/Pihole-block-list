@@ -1,21 +1,17 @@
-# Title: 1Hosts (complete)
-# Expires: 4 days
-#  .............
-#  |home: badmojr.github.io/1Hosts
+# Title: complete Ads_Block
+#  |Expires: 4 days
+#  \**************
+#  |Owner: Brian Ly
 #  |Blocked: 63,784 domains
 #  |Size: 1.11 MB
 #  |Updated: Tue, 22 Sep 2020 17:48:56 +0000
-#  |
-#  |Licence: Dandelicence,
-#  | https://github.com/DandelionSprout/Dandelicence/blob/master/DandelicenceNewestVersion.md
-#  /
-# ( Please report any issues related to this file.
-#  \......................................
-#  | GH: github.com/badmojr/1Hosts/issues
-#  | XDA: go.energized.pro/badmojr
-#  | e-mail: badmojr@gmail.com
-#  | Telegram: t.me/badmojr
-#  \____________________
+#  |MIT License
+#  |Copyright (c) 2020 Brian
+#  \************************
+#  | Please report any issues related to this file.
+#  \**********************************************
+#  | e-mail: brian.n.ly@gmail.com
+# ____________________________________________________________________________
 
 smetrics.abbott
 ad.animehub.ac

@@ -1,3 +1,18 @@
+# Title: complete Ads_Block
+#  |Expires: 4 days
+#  \**************
+#  |Owner: Brian Ly
+#  |Blocked: 83 domains
+#  |Size: 1.11 MB
+#  |Updated: Tue, 22 Sep 2020 17:48:56 +0000
+#  |MIT License
+#  |Copyright (c) 2020 Brian
+#  \************************
+#  | Please report any issues related to this file.
+#  \**********************************************
+#  | e-mail: brian.n.ly@gmail.com
+# ____________________________________________________________________________
+
 api.roblox.com
 www.roblox.com
 ephemeralcounters.api.roblox.com

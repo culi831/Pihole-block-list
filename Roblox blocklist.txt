@@ -67,3 +67,11 @@ xblmessaging.xboxlive.com
 peoplehub.xboxlive.com
 sessiondirectory.xboxlive.com
 chat.xboxlive.com
+config.edge.skype.com
+aka.ms
+d3aqoihi2n8ty8.cloudfront.net
+d3aqoihi2n8ty8.cloudfront.net
+toolkit.twitch-extension-backend.com
+fonts.gstatic.com
+ddacn6pr5v0tl.cloudfront.net
+extension-files.twitch.tv

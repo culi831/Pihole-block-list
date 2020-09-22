@@ -75,3 +75,5 @@ toolkit.twitch-extension-backend.com
 fonts.gstatic.com
 ddacn6pr5v0tl.cloudfront.net
 extension-files.twitch.tv
+supervisor.ext-twitch.tv
+skt182bso1i1ah7dnmkwqkdk26dak4.ext-twitch.tv

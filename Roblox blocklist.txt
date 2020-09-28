@@ -96,3 +96,4 @@ gql.twitch.tv
 video-edge-b7deea.pdx01.abs.hls.ttvnw.net
 static.twitchcdn.net
 static-cdn.jtvnw.net
+api.surfeasy.com

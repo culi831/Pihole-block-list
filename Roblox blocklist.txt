@@ -97,3 +97,13 @@ video-edge-b7deea.pdx01.abs.hls.ttvnw.net
 static.twitchcdn.net
 static-cdn.jtvnw.net
 api.surfeasy.com
+inventory.roblox.com
+assetdelivery.roblox.com
+c4.rbxcdn.com
+t2.rbxcdn.com
+t5.rbxcdn.com
+c6.rbxcdn.com
+t7.rbxcdn.com
+t0.rbxcdn.com
+c0.rbxcdn.com
+c5.rbxcdn.com

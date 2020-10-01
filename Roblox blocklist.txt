@@ -111,3 +111,4 @@ clientsettingscdn.roblox.com
 library-service.live.use1a.on.epicgames.com
 api.epicgames.dev
 datarouter.ol.epicgames.com
+datarouter-prod.ak.epicgames.com

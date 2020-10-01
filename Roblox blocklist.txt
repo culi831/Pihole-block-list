@@ -107,3 +107,6 @@ t7.rbxcdn.com
 t0.rbxcdn.com
 c0.rbxcdn.com
 c5.rbxcdn.com
+clientsettingscdn.roblox.com
+library-service.live.use1a.on.epicgames.com
+api.epicgames.dev

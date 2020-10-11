@@ -116,3 +116,4 @@ ubisoft.com
 account-public-service-prod03.ol.epicgames.com
 catalog-public-service-prod06.ol.epicgames.com
 api-va.tiktokv.com
+https://www.web.roblox.com/home
